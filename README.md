@@ -34,3 +34,7 @@
 1. **Clone the repo:**
    ```bash
    git clone [[https://github.com/abdulkashim444-lgtm/netflix-web-clone.git](https://github.com/abdulkashim444-lgtm/netflix-web-clone/edit/main/README.md)]
+
+
+
+<img width="1848" height="1078" alt="Image" src="https://github.com/user-attachments/assets/15f8ab04-1f6e-4a6f-89ad-1b56d3f40520" />
