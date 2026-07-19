@@ -9,7 +9,6 @@
 * **Cinematic Dark Theme:** Built on a deep obsidian palette (`#0a0a0a`) paired with Netflix’s signature vibrant crimson accents.
 * **Glassmorphism UI:** Implements modern `backdrop-filter` blurs for translucent navigation bars, floating action arrows, and details modals.
 * **Fluid Micro-Animations:** Features elegant hover-scaling that dynamically dims background elements while smoothly revealing rich title metadata overlays.
-
 ---
 
 ## ⚡ Core Features
