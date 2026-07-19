@@ -3,6 +3,8 @@
 > A high-fidelity, visually stunning Netflix front-end recreation built with an absolute focus on cinematic aesthetics, fluid micro-interactions, and modern CSS architecture.
 
 ---
+<img width="1848" height="1078" alt="Image" src="https://github.com/user-attachments/assets/15f8ab04-1f6e-4a6f-89ad-1b56d3f40520" />
+
 
 ## 🎨 Interface Preview & Aesthetics
 
@@ -33,7 +35,3 @@
 1. **Clone the repo:**
    ```bash
    git clone [[https://github.com/abdulkashim444-lgtm/netflix-web-clone.git](https://github.com/abdulkashim444-lgtm/netflix-web-clone/edit/main/README.md)]
-
-
-
-<img width="1848" height="1078" alt="Image" src="https://github.com/user-attachments/assets/15f8ab04-1f6e-4a6f-89ad-1b56d3f40520" />
