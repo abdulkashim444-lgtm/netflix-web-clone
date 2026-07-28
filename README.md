@@ -3,8 +3,6 @@
 > A high-fidelity, visually stunning Netflix front-end recreation built with an absolute focus on cinematic aesthetics, fluid micro-interactions, and modern CSS architecture.
 
 ---
-<img width="1848" height="1078" alt="Image" src="https://github.com/user-attachments/assets/15f8ab04-1f6e-4a6f-89ad-1b56d3f40520" />
-
 
 ## 🎨 Interface Preview & Aesthetics
 
@@ -12,6 +10,9 @@
 * **Glassmorphism UI:** Implements modern `backdrop-filter` blurs for translucent navigation bars, floating action arrows, and details modals.
 * **Fluid Micro-Animations:** Features elegant hover-scaling that dynamically dims background elements while smoothly revealing rich title metadata overlays.
 ---
+
+<img width="1848" height="1078" alt="Image" src="https://github.com/user-attachments/assets/15f8ab04-1f6e-4a6f-89ad-1b56d3f40520" />
+
 
 ## ⚡ Core Features
 
